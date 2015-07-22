@@ -13,5 +13,5 @@ def solution(string,markers):
                 break
             else:
                 string = string[:marker_index].rstrip(' ') + string[newline_index:len(string)]   		
-				
+			
     return string
