@@ -14,4 +14,4 @@ def solution(string,markers):
             else:
                 string = string[:marker_index].rstrip(' ') + string[newline_index:len(string)]   		
 			
-    return string
+    return string 
