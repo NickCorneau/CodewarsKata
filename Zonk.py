@@ -2,7 +2,7 @@ import collections
 
 def get_score(dice): 
     print(dice)
-
+ 
     score = 0
     
     counter = collections.Counter(dice)
