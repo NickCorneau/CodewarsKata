@@ -1,1 +1,0 @@
-def print_all_links(page):
