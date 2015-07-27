@@ -1,5 +1,4 @@
 def luck_check(string):
-
     # if odd length, remove middle element
     if (len(string) % 2 != 0):
         string = string[:len(string)/2] + string[len(string)/2 + 1:]
