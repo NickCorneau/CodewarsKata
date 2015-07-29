@@ -9,6 +9,7 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 ###### 8th Kyu
 - BrokenGreetings.py
 - Multiply.py
+- DNAtoRNA.py
 
 ###### 7th Kyu
 - DeodorantEvaporator.py
