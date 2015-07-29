@@ -7,8 +7,8 @@ In our dojo, kata are real code challenges focused on improving skill and techni
 Each kata on the site is set to a Kyu/Dan rank, based on its subject area and difficulty. The community collectively determines rank in the Beta Process.
 
 ###### 8th Kyu
--- BrokenGreetings.py
--- Multiply.py
+- BrokenGreetings.py
+- Multiply.py
 
 ###### 7th Kyu
 - DeodorantEvaporator.py
