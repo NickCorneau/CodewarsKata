@@ -10,7 +10,6 @@ def done_or_not(board):
         
     return 'Finished!'
     
-    
 def validRow(board):
     for row in board:
         solution = [1, 2, 3, 4, 5, 6, 7, 8, 9]
@@ -20,7 +19,6 @@ def validRow(board):
             else:    
                 return False
     return True
-            
             
 def validCol(board):
     counter = -1
@@ -33,7 +31,6 @@ def validCol(board):
             else:    
                 return False
     return True
-            
             
 def validSquare(board):
     solution = [1, 2, 3, 4, 5, 6, 7, 8, 9]
