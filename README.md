@@ -16,6 +16,7 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 - DescendingOrder.py
 
 ###### 6th Kyu
+- PhoneNumValidator.py
 
 ###### 5th Kyu
 - DoneSudoku.py
@@ -24,3 +25,7 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 ###### 4th Kyu
 - StripComments.py
 - SudokuValidator.py
+- IPValidator.py
+
+###### 3rd Kyu
+- LoopSize.py
