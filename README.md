@@ -21,6 +21,8 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 ###### 5th Kyu
 - DoneSudoku.py
 - Zonk.py
+- ValidParentheses.py
+- Rot13.py
 
 ###### 4th Kyu
 - StripComments.py
